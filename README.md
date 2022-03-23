@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Frontend Developer in @netent-tech/core-tech
+- 👋 Hi, I am Frontend Developer
 
 <!---
 oleksiibatin-ne/oleksiibatin-ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
