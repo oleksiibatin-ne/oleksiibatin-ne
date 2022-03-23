@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Frontend Developer in @gce-gamecreation-coretech-mat team
+- 👋 Hi, I’m Frontend Developer in @netent-tech/core-tech
 
 <!---
 oleksiibatin-ne/oleksiibatin-ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
